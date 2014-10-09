@@ -1,0 +1,575 @@
+----------------------------------------------
+ SIZE: 100
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  2.05265e-005 s
+
+ 
+   RT of trial 2:  2.12596e-005 s
+
+ 
+   RT of trial 3:  1.68611e-005 s
+
+ 
+   RT of trial 4:  1.75942e-005 s
+
+ 
+   RT of trial 5:  2.49251e-005 s
+
+      Average of experiment 100: 2.02333e-005 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.000738956 s
+
+ 
+   RT of trial 2:  0.000144419 s
+
+ 
+   RT of trial 3:  0.000140753 s
+
+ 
+   RT of trial 4:  0.000145885 s
+
+ 
+   RT of trial 5:  0.000145885 s
+
+      Average of experiment 100: 0.000267226 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  9.01702e-005 s
+
+ 
+   RT of trial 2:  9.23695e-005 s
+
+ 
+   RT of trial 3:  0.000137821 s
+
+ 
+   RT of trial 4:  9.60349e-005 s
+
+ 
+   RT of trial 5:  9.75011e-005 s
+
+      Average of experiment 100: 0.000156225 s
+
+----------------------------------------------
+ SIZE: 200
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  5.79142e-005 s
+
+ 
+   RT of trial 2:  5.71811e-005 s
+
+ 
+   RT of trial 3:  5.86473e-005 s
+
+ 
+   RT of trial 4:  5.86473e-005 s
+
+ 
+   RT of trial 5:  5.49818e-005 s
+
+      Average of experiment 200: 5.74743e-005 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.000357015 s
+
+ 
+   RT of trial 2:  0.000330624 s
+
+ 
+   RT of trial 3:  0.000340154 s
+
+ 
+   RT of trial 4:  0.000336489 s
+
+ 
+   RT of trial 5:  0.000340154 s
+
+      Average of experiment 200: 0.000352382 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00025365 s
+
+ 
+   RT of trial 2:  0.000267578 s
+
+ 
+   RT of trial 3:  0.000258781 s
+
+ 
+   RT of trial 4:  0.000256582 s
+
+ 
+   RT of trial 5:  0.000267578 s
+
+      Average of experiment 200: 0.00033131 s
+
+----------------------------------------------
+ SIZE: 300
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.00012096 s
+
+ 
+   RT of trial 2:  0.000127558 s
+
+ 
+   RT of trial 3:  0.000121693 s
+
+ 
+   RT of trial 4:  0.000125359 s
+
+ 
+   RT of trial 5:  0.000136355 s
+
+      Average of experiment 300: 0.000126385 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.000523427 s
+
+ 
+   RT of trial 2:  0.000554217 s
+
+ 
+   RT of trial 3:  0.000540288 s
+
+ 
+   RT of trial 4:  0.000560815 s
+
+ 
+   RT of trial 5:  0.00057401 s
+
+      Average of experiment 300: 0.000575828 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00049557 s
+
+ 
+   RT of trial 2:  0.000488972 s
+
+ 
+   RT of trial 3:  0.000534423 s
+
+ 
+   RT of trial 4:  0.000500701 s
+
+ 
+   RT of trial 5:  0.000526359 s
+
+      Average of experiment 300: 0.000624371 s
+
+----------------------------------------------
+ SIZE: 400
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.000244852 s
+
+ 
+   RT of trial 2:  0.000222127 s
+
+ 
+   RT of trial 3:  0.000282973 s
+
+ 
+   RT of trial 4:  0.000231657 s
+
+ 
+   RT of trial 5:  0.000266112 s
+
+      Average of experiment 400: 0.000249544 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.000843788 s
+
+ 
+   RT of trial 2:  0.00111943 s
+
+ 
+   RT of trial 3:  0.000761682 s
+
+ 
+   RT of trial 4:  0.00119421 s
+
+ 
+   RT of trial 5:  0.000753618 s
+
+      Average of experiment 400: 0.000984453 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00105272 s
+
+ 
+   RT of trial 2:  0.000799069 s
+
+ 
+   RT of trial 3:  0.000804201 s
+
+ 
+   RT of trial 4:  0.000771945 s
+
+ 
+   RT of trial 5:  0.000821795 s
+
+      Average of experiment 400: 0.00104684 s
+
+----------------------------------------------
+ SIZE: 500
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.000379741 s
+
+ 
+   RT of trial 2:  0.00053589 s
+
+ 
+   RT of trial 3:  0.000375343 s
+
+ 
+   RT of trial 4:  0.00037241 s
+
+ 
+   RT of trial 5:  0.000377542 s
+
+      Average of experiment 500: 0.000408185 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.000957417 s
+
+ 
+   RT of trial 2:  0.000969879 s
+
+ 
+   RT of trial 3:  0.000955218 s
+
+ 
+   RT of trial 4:  0.000982342 s
+
+ 
+   RT of trial 5:  0.000954485 s
+
+      Average of experiment 500: 0.00104551 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00116708 s
+
+ 
+   RT of trial 2:  0.00118761 s
+
+ 
+   RT of trial 3:  0.00115242 s
+
+ 
+   RT of trial 4:  0.00121253 s
+
+ 
+   RT of trial 5:  0.00121913 s
+
+      Average of experiment 500: 0.00139686 s
+
+----------------------------------------------
+ SIZE: 600
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.000538089 s
+
+ 
+   RT of trial 2:  0.000516096 s
+
+ 
+   RT of trial 3:  0.000552751 s
+
+ 
+   RT of trial 4:  0.000848919 s
+
+ 
+   RT of trial 5:  0.000532957 s
+
+      Average of experiment 600: 0.000597762 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.00119714 s
+
+ 
+   RT of trial 2:  0.00117588 s
+
+ 
+   RT of trial 3:  0.00116928 s
+
+ 
+   RT of trial 4:  0.00130197 s
+
+ 
+   RT of trial 5:  0.00117954 s
+
+      Average of experiment 600: 0.00132431 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00159227 s
+
+ 
+   RT of trial 2:  0.00162233 s
+
+ 
+   RT of trial 3:  0.00154975 s
+
+ 
+   RT of trial 4:  0.00167145 s
+
+ 
+   RT of trial 5:  0.00188551 s
+
+      Average of experiment 600: 0.00192913 s
+
+----------------------------------------------
+ SIZE: 700
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.000693504 s
+
+ 
+   RT of trial 2:  0.000762415 s
+
+ 
+   RT of trial 3:  0.000755817 s
+
+ 
+   RT of trial 4:  0.000705234 s
+
+ 
+   RT of trial 5:  0.00073749 s
+
+      Average of experiment 700: 0.000730892 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.00148891 s
+
+ 
+   RT of trial 2:  0.00141633 s
+
+ 
+   RT of trial 3:  0.00144346 s
+
+ 
+   RT of trial 4:  0.0014046 s
+
+ 
+   RT of trial 5:  0.00140094 s
+
+      Average of experiment 700: 0.00157703 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00212376 s
+
+ 
+   RT of trial 2:  0.00211423 s
+
+ 
+   RT of trial 3:  0.00221613 s
+
+ 
+   RT of trial 4:  0.00214722 s
+
+ 
+   RT of trial 5:  0.00212303 s
+
+      Average of experiment 700: 0.00246028 s
+
+----------------------------------------------
+ SIZE: 800
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.000950819 s
+
+ 
+   RT of trial 2:  0.00094862 s
+
+ 
+   RT of trial 3:  0.000931759 s
+
+ 
+   RT of trial 4:  0.00092736 s
+
+ 
+   RT of trial 5:  0.00091783 s
+
+      Average of experiment 800: 0.000935278 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.00165605 s
+
+ 
+   RT of trial 2:  0.00164066 s
+
+ 
+   RT of trial 3:  0.00165679 s
+
+ 
+   RT of trial 4:  0.00169197 s
+
+ 
+   RT of trial 5:  0.00176382 s
+
+      Average of experiment 800: 0.00186891 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00266112 s
+
+ 
+   RT of trial 2:  0.00268605 s
+
+ 
+   RT of trial 3:  0.00275496 s
+
+ 
+   RT of trial 4:  0.00268091 s
+
+ 
+   RT of trial 5:  0.00345066 s
+
+      Average of experiment 800: 0.00322052 s
+
+----------------------------------------------
+ SIZE: 900
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.00116781 s
+
+ 
+   RT of trial 2:  0.00114362 s
+
+ 
+   RT of trial 3:  0.00115608 s
+
+ 
+   RT of trial 4:  0.0012052 s
+
+ 
+   RT of trial 5:  0.00117954 s
+
+      Average of experiment 900: 0.00117045 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.00189871 s
+
+ 
+   RT of trial 2:  0.00196468 s
+
+ 
+   RT of trial 3:  0.00194196 s
+
+ 
+   RT of trial 4:  0.00184959 s
+
+ 
+   RT of trial 5:  0.00191923 s
+
+      Average of experiment 900: 0.00214892 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00349538 s
+
+ 
+   RT of trial 2:  0.00342573 s
+
+ 
+   RT of trial 3:  0.00380254 s
+
+ 
+   RT of trial 4:  0.0033407 s
+
+ 
+   RT of trial 5:  0.00333996 s
+
+      Average of experiment 900: 0.00391065 s
+
+----------------------------------------------
+ SIZE: 1000
+----------------------------------------------
+ -Insertion Sort:
+ 
+   RT of trial 1:  0.00142953 s
+
+ 
+   RT of trial 2:  0.00155709 s
+
+ 
+   RT of trial 3:  0.00139947 s
+
+ 
+   RT of trial 4:  0.0014222 s
+
+ 
+   RT of trial 5:  0.00144346 s
+
+      Average of experiment 1000: 0.00145035 s
+
+ -Heap Sort:
+ 
+   RT of trial 1:  0.00230777 s
+
+ 
+   RT of trial 2:  0.00217142 s
+
+ 
+   RT of trial 3:  0.0021333 s
+
+ 
+   RT of trial 4:  0.00212303 s
+
+ 
+   RT of trial 5:  0.00214063 s
+
+      Average of experiment 1000: 0.0024653 s
+
+ -Quick Sort:
+ 
+   RT of trial 1:  0.00432011 s
+
+ 
+   RT of trial 2:  0.0040408 s
+
+ 
+   RT of trial 3:  0.00405326 s
+
+ 
+   RT of trial 4:  0.00403713 s
+
+ 
+   RT of trial 5:  0.00421747 s
+
+      Average of experiment 1000: 0.00462681 s
+
+
+
+ Analysis Complete. 
+
+

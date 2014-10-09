@@ -1,0 +1,180 @@
+----------------------------------------------
+ SIZE: 100
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 100: 2.02333e-005 s
+
+ 
+-Heap Sort:
+
+Average of experiment 100: 0.000267226 s
+
+ 
+-Quick Sort:
+
+Average of experiment 100: 0.000156225 s
+
+----------------------------------------------
+ SIZE: 200
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 200: 5.74743e-005 s
+
+ 
+-Heap Sort:
+
+Average of experiment 200: 0.000352382 s
+
+ 
+-Quick Sort:
+
+Average of experiment 200: 0.00033131 s
+
+----------------------------------------------
+ SIZE: 300
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 300: 0.000126385 s
+
+ 
+-Heap Sort:
+
+Average of experiment 300: 0.000575828 s
+
+ 
+-Quick Sort:
+
+Average of experiment 300: 0.000624371 s
+
+----------------------------------------------
+ SIZE: 400
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 400: 0.000249544 s
+
+ 
+-Heap Sort:
+
+Average of experiment 400: 0.000984453 s
+
+ 
+-Quick Sort:
+
+Average of experiment 400: 0.00104684 s
+
+----------------------------------------------
+ SIZE: 500
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 500: 0.000408185 s
+
+ 
+-Heap Sort:
+
+Average of experiment 500: 0.00104551 s
+
+ 
+-Quick Sort:
+
+Average of experiment 500: 0.00139686 s
+
+----------------------------------------------
+ SIZE: 600
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 600: 0.000597762 s
+
+ 
+-Heap Sort:
+
+Average of experiment 600: 0.00132431 s
+
+ 
+-Quick Sort:
+
+Average of experiment 600: 0.00192913 s
+
+----------------------------------------------
+ SIZE: 700
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 700: 0.000730892 s
+
+ 
+-Heap Sort:
+
+Average of experiment 700: 0.00157703 s
+
+ 
+-Quick Sort:
+
+Average of experiment 700: 0.00246028 s
+
+----------------------------------------------
+ SIZE: 800
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 800: 0.000935278 s
+
+ 
+-Heap Sort:
+
+Average of experiment 800: 0.00186891 s
+
+ 
+-Quick Sort:
+
+Average of experiment 800: 0.00322052 s
+
+----------------------------------------------
+ SIZE: 900
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 900: 0.00117045 s
+
+ 
+-Heap Sort:
+
+Average of experiment 900: 0.00214892 s
+
+ 
+-Quick Sort:
+
+Average of experiment 900: 0.00391065 s
+
+----------------------------------------------
+ SIZE: 1000
+----------------------------------------------
+ 
+-Insertion Sort:
+
+Average of experiment 1000: 0.00145035 s
+
+ 
+-Heap Sort:
+
+Average of experiment 1000: 0.0024653 s
+
+ 
+-Quick Sort:
+
+Average of experiment 1000: 0.00462681 s
+
